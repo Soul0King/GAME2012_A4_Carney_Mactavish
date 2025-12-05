@@ -1,0 +1,430 @@
+﻿  Mesh.cpp
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(222,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(223,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(291,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(571,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(572,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(580,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(581,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(596,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(597,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(605,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(613,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(622,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(632,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(633,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(647,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(647,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(648,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(648,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(649,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(649,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(650,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(650,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(651,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(651,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(652,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(652,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(655,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(657,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(658,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(664,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(665,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(666,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(723,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(724,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(725,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(749,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(882,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(882,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(883,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(883,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(883,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(884,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(884,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(884,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(885,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(885,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(885,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(886,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(886,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(886,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(887,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(887,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(887,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(888,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(888,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(888,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(889,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(889,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(890,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(890,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(890,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(891,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(891,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(891,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(929,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(929,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(930,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(930,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(930,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(931,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(931,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(931,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(932,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(932,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(932,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(933,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(933,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(933,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(934,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(934,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(935,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(935,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(935,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(936,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(936,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(936,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(937,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(937,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(937,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(938,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(938,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(938,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(939,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(939,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(939,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(940,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(940,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(940,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(941,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(941,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(942,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(942,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(942,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(943,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(943,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(943,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(944,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(944,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(944,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(945,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(945,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(945,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(946,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(946,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(947,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(947,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(947,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(948,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(948,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(948,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1029,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1030,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1031,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1031,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1032,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1032,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1359,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1361,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1363,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1365,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1523,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1540,20): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1541,20): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1542,20): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1544,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1797,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1828,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1828,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\inc\par_shapes\par_shapes.h(1828,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Mesh.cpp')
+  
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Mesh.cpp(22,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Mesh.cpp(147,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Mesh.cpp(154,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Mesh.cpp(164,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Mesh.cpp(174,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Window.cpp
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Window.cpp(154,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Window.cpp(167,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\src\Window.cpp(172,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  graphics-1-f2025.vcxproj -> C:\Users\damac\Downloads\graphics-1-f2025-a4-start\graphics-1-f2025-a4-start\x64\Debug\graphics-1-f2025.exe
